@@ -2,13 +2,13 @@
 These are EFI for Monterey, Ventua when hacking to Thinkpad-e430.
 Of course we use OpenCoreLegacyPacher for HD4000 graphics.
 
-##Spec.
+## Spec.
 ●Spec.
-CPU:Core i3 3120M(Ivy Bridge)　2.5GHz/2core     　
+CPU:Core i3 3120M(Ivy Bridge)　2.5GHz/2core
 
-Display Size:14'' 　
+Display Size:14''
 
-Display resorution:WXGA (1366x768)  
+Display resorution:WXGA (1366x768)
 
 RAM: 8GB(DDR3 PC3-12800,Expanded)
 
